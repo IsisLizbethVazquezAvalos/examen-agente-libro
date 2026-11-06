@@ -1,0 +1,15 @@
+# Variables de entorno y credenciales (NO subir)
+.env
+credentials.json
+token.json
+
+# Entorno virtual
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/
